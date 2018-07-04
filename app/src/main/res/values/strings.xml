@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Lab4-activity5</string>
+
+    <string-array name="string_array_list_names">
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>IceCream Sandwich</item>
+        <item>JellyBean</item>
+        <item>KitKat</item>
+        <item>Lollypop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+    </string-array>
+
+    <string-array name="string_array_description">
+        <item>Donut 1.6</item>
+        <item>Eclair 2.1</item>
+        <item>Froyo 2.2</item>
+        <item>Gingerbread 2.3</item>
+        <item>Honeycomb 3.0</item>
+        <item>Ice Cream Sandwich 4.0</item>
+        <item>Jelly Bean 4.1</item>
+        <item>KitKat 4.4</item>
+        <item>Lollypop 5.0</item>
+        <item>Marshmallow 6.0</item>
+        <item>Nougat 7.0</item>
+        <item>Oreo 8.0</item>
+    </string-array>
+
+</resources>
